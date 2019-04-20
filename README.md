@@ -12,6 +12,8 @@
 * [soo.gd](http://soo.gd/)
 * [clicky.me](http://clicky.me/)
 * [bl.ink](https://www.bl.ink/)
+* [buff.ly](https://buff.ly/)
+* [rebrand.ly](https://rebrand.ly/)
 * [han.gl](https://han.gl) - Korean URL shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL shortener Service
 
