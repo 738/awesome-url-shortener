@@ -14,8 +14,15 @@
 * [bl.ink](https://www.bl.ink/)
 * [buff.ly](https://buff.ly/)
 * [rebrand.ly](https://rebrand.ly/)
+* [bit.do](https://bit.do/)
+* [T2M](https://t2mio.com/)
 * [han.gl](https://han.gl) - Korean URL shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL shortener Service
+
+## Self Hosting
+
+* [Polr](https://polrproject.org/) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
+* [yourls](https://yourls.org/)
 
 ## Deprecated Services
 
