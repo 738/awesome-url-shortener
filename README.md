@@ -32,3 +32,4 @@
 * [goo.gl](https://goo.gl) - deprecated from Google (2018.03.30)
 * [me2.do](http://me2.do) - deprecated from Naver (2016.08.18)
 * [s2r.co](http://s2r.co)
+* [LiveChat URL shortener](https://www.livechatinc.com/url-shortener/) - temporarily unavailable
