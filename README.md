@@ -22,10 +22,11 @@
 * [han.gl](https://han.gl) - Korean URL shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL shortener Service
 
-## Self Hosting
+## Self Hosting Opensource
 
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [yourls](https://yourls.org)
+* [gazua.to](http://gazua.to) - Coming Soon!
 
 ## Deprecated Services
 
