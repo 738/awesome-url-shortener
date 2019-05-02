@@ -19,6 +19,11 @@
 * [cutt.ly](https://cutt.ly)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
+* [LinkSplit](https://linksplit.io/url-shortener)
+* [short.cm](https://short.cm)
+* [kutt.it](https://kutt.it)
+* [cutit.org](https://cutit.org)
+* [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [han.gl](https://han.gl) - Korean URL shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL shortener Service
 
