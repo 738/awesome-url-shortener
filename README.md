@@ -26,6 +26,7 @@
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [han.gl](https://han.gl) - Korean URL shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL shortener Service
+* [vo.la](https://vo.la/) - Korean URL shortener Service
 
 ## Self Hosting Opensource
 
