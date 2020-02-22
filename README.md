@@ -24,9 +24,11 @@
 * [kutt.it](https://kutt.it)
 * [cutit.org](https://cutit.org)
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
-* [han.gl](https://han.gl) - Korean URL shortener Service
-* [bitly.kr](http://bitly.kr) - Korean URL shortener Service
-* [vo.la](https://vo.la/) - Korean URL shortener Service
+* [han.gl](https://han.gl) - Korean URL Shortener Service
+* [bitly.kr](http://bitly.kr) - Korean URL Shortener Service
+* [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
+* [vo.la](https://vo.la/) - Korean URL Shortener Service
+* [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 
 ## Self Hosting Opensource
 
