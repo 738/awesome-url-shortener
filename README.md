@@ -22,7 +22,6 @@
 * [LinkSplit](https://linksplit.io/url-shortener)
 * [short.io](https://short.io)
 * [kutt.it](https://kutt.it)
-* [cutit.org](https://cutit.org)
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL Shortener Service
@@ -42,6 +41,7 @@
 * [me2.do](http://me2.do) - deprecated from Naver (2016.08.18)
 * [s2r.co](http://s2r.co)
 * [LiveChat URL shortener](https://www.livechatinc.com/url-shortener/) - temporarily unavailable
+* [cutit.org](https://cutit.org) - website suspended
 
 ## Contributing
 
