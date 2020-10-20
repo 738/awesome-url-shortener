@@ -29,6 +29,7 @@
 * [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
+* [btfy.io](https://btfy.io) - Simple, GDPR compliant custom URL shortener platform
 
 ## Self Hosting Opensource
 
