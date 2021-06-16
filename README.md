@@ -30,6 +30,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [btfy.io](https://btfy.io) - Simple, GDPR compliant custom URL shortener platform
+* [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 
 ## Self Hosting Opensource
 
