@@ -34,6 +34,7 @@
 
 ## Self Hosting Opensource
 
+* [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [yourls](https://yourls.org)
 * [gazua.to](http://gazua.to) - Coming Soon!
