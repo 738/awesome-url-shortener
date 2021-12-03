@@ -23,6 +23,7 @@
 * [LinkSplit](https://linksplit.io/url-shortener)
 * [short.io](https://short.io)
 * [kutt.it](https://kutt.it)
+* [switchy.io](https://switchy.io)
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [bitly.kr](http://bitly.kr) - Korean URL Shortener Service
