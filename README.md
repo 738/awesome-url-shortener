@@ -40,6 +40,7 @@
 * [yourls](https://yourls.org)
 * [gazua.to](http://gazua.to) - Coming Soon!
 * [shlink](https://shlink.io)
+* [pkcd](https://github.com/Just-Moh-it/Pckd) - free, flexible, open source, simple to install, good tracking, customizable
 
 ## Deprecated Services
 
