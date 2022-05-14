@@ -32,6 +32,7 @@
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [btfy.io](https://btfy.io) - Simple, GDPR compliant custom URL shortener platform
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
+* [SoosES](https://soos.es) - A completely free and simple link shortener (no registration required)
 
 ## Self Hosting Opensource
 
