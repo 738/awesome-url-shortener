@@ -5,6 +5,7 @@
 ## Url Shortener Services
 
 * [T.LY](https://t.ly)
+* [Pckd.me](https://pckd.me/about)
 * [bit.ly](https://bitly.com)
 * [is.gd](https://is.gd)
 * [Ow.ly](https://ow.ly)
