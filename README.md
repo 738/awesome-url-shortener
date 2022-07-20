@@ -11,7 +11,6 @@
 * [Ow.ly](https://ow.ly)
 * [3.ly](http://3.ly)
 * [Tiny URL](https://tiny.cc)
-* [soo.gd](http://soo.gd/)
 * [clicky.me](http://clicky.me)
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
@@ -51,6 +50,7 @@
 * [s2r.co](http://s2r.co)
 * [LiveChat URL shortener](https://www.livechatinc.com/url-shortener/) - temporarily unavailable
 * [cutit.org](https://cutit.org) - website suspended
+* [soo.gd](http://soo.gd/)
 
 ## Contributing
 
