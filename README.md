@@ -35,6 +35,7 @@
 * [btfy.io](https://btfy.io) - Simple, GDPR compliant custom URL shortener platform
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
+* [da.gd](https://da.gd/) - dagd URL shortene
 
 ## Self Hosting Opensource
 
@@ -44,6 +45,7 @@
 * [yourls](https://yourls.org)
 * [shlink](https://shlink.io)
 * [pkcd](https://github.com/Just-Moh-it/Pckd) - free, flexible, open source, simple to install, good tracking, customizable
+* [dagd](https://github.com/dagd/dagd) - URL shortene with multiple safe-browsing APIs check each URL in an effort to combat phishing attempts.
 
 ## Deprecated Services
 
