@@ -35,6 +35,8 @@
 * [btfy.io](https://btfy.io) - Simple, GDPR compliant custom URL shortener platform
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
+* [KurzeLinks.de](https://kurzelinks.de/) - Link shortener based in Germany. The German firm is oroviding several link shortening services for free and paid. 
+
 
 ## Self Hosting Opensource
 
