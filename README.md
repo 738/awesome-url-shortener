@@ -14,8 +14,7 @@
 * [clicky.me](http://clicky.me)
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
-* [rebrand.ly](https://rebrand.ly)
-* [bit.do](https://bit.do)
+* [rebrandly.com](https://rebrandly.com)
 * [T2M](https://t2mio.com)
 * [cutt.ly](https://cutt.ly)
 * [shorturl.at](https://www.shorturl.at)
@@ -32,7 +31,6 @@
 * [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
-* [btfy.io](https://btfy.io) - Simple, GDPR compliant custom URL shortener platform
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
 
