@@ -8,6 +8,7 @@
 * [Pckd.me](https://pckd.me/about)
 * [bit.ly](https://bitly.com)
 * [is.gd](https://is.gd)
+* [v.gd](https://v.gd)
 * [Ow.ly](https://ow.ly)
 * [3.ly](http://3.ly)
 * [Tiny URL](https://tiny.cc)
