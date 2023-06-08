@@ -33,6 +33,7 @@
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
+* [san.aq](http://san.aq/) - scott's url shortener (You may also submit using curl).
 
 ## Self Hosting Opensource
 
@@ -43,6 +44,7 @@
 * [shlink](https://shlink.io)
 * [Pckd](https://github.com/Just-Moh-it/Pckd) - free, flexible, open source, simple to install, good tracking, customizable
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
+* [sanaq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
 
 ## Deprecated Services
 
