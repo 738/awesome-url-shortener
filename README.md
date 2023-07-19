@@ -8,6 +8,7 @@
 * [Pckd.me](https://pckd.me/about)
 * [bit.ly](https://bitly.com)
 * [is.gd](https://is.gd)
+* [v.gd](https://v.gd)
 * [Ow.ly](https://ow.ly)
 * [3.ly](http://3.ly)
 * [Tiny URL](https://tiny.cc)
@@ -44,6 +45,7 @@
 * [Pckd](https://github.com/Just-Moh-it/Pckd) - free, flexible, open source, simple to install, good tracking, customizable
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
 * [dub.sh](https://dub.sh) - A open-source link management tool for modern marketing teams to create, share, and track short links.
+* [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
 
 ## Deprecated Services
 
