@@ -43,6 +43,7 @@
 * [shlink](https://shlink.io)
 * [Pckd](https://github.com/Just-Moh-it/Pckd) - free, flexible, open source, simple to install, good tracking, customizable
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
+* [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
 
 ## Deprecated Services
 
