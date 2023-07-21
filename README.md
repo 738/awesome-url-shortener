@@ -5,7 +5,6 @@
 ## Url Shortener Services
 
 * [T.LY](https://t.ly)
-* [Pckd.me](https://pckd.me/about)
 * [bit.ly](https://bitly.com)
 * [is.gd](https://is.gd)
 * [v.gd](https://v.gd)
@@ -42,7 +41,6 @@
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [yourls](https://yourls.org)
 * [shlink](https://shlink.io)
-* [Pckd](https://github.com/Just-Moh-it/Pckd) - free, flexible, open source, simple to install, good tracking, customizable
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
 * [dub.sh](https://dub.sh) - A open-source link management tool for modern marketing teams to create, share, and track short links.
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
@@ -55,6 +53,7 @@
 * [LiveChat URL shortener](https://www.livechatinc.com/url-shortener/) - temporarily unavailable
 * [cutit.org](https://cutit.org) - website suspended
 * [soo.gd](http://soo.gd/)
+* [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)
 
 ## Contributing
 
