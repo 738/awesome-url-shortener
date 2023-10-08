@@ -4,17 +4,18 @@
 
 ## Url Shortener Services
 
-* [3.ly](http://3.ly)
+* [3.ly](https://3.ly)
 * [bit.ly](https://bitly.com)
-* [bitly.kr](http://bitly.kr) - Korean URL Shortener Service
+* [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
-* [clicky.me](http://clicky.me)
+* [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
-* [gg.gg](http://gg.gg)
+* [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
 * [is.gd](https://is.gd)
+* [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [kutt.it](https://kutt.it)
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [LinkSplit](https://linksplit.io/url-shortener)
@@ -23,6 +24,8 @@
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [Ow.ly](https://ow.ly)
 * [rebrandly.com](https://rebrandly.com)
+* [rip.to](https://rip.to)
+* [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
 * [short.io](https://short.io)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
@@ -43,6 +46,7 @@
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
+* [san.aq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
 * [shlink](https://shlink.io)
 * [yourls](https://yourls.org)
 
