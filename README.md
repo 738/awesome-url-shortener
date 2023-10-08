@@ -49,11 +49,11 @@
 ## Deprecated Services
 
 * [cutit.org](https://cutit.org) - website suspended
-* [git.io](https://git.io) - deprecated fro GitHub
-* [goo.gl](https://goo.gl) - deprecated from Google (2018.03.30)
+* [git.io](https://git.io) - deprecated from GitHub (2022-01-11)
+* [goo.gl](https://goo.gl) - deprecated from Google (2018-03-30)
 * [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)
 * [LiveChat URL shortener](https://www.livechatinc.com/url-shortener/) - temporarily unavailable
-* [me2.do](https://me2.do) - deprecated from Naver (2016.08.18)
+* [me2.do](https://me2.do) - deprecated from Naver (2016-08-18)
 * [s2r.co](https://s2r.co)
 * [soo.gd](https://soo.gd/)
 
