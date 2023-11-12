@@ -24,6 +24,7 @@
 * [kutt.it](https://kutt.it)
 * [switchy.io](https://switchy.io)
 * [gg.gg](http://gg.gg)
+* [Redirect.link](https://rdt.li/gh-awesome-url-shortener) - Free, self hostable, open source URL shortener with analytics/graphs
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [han.gl](https://han.gl) - Korean URL Shortener Service
@@ -37,6 +38,7 @@
 ## Self Hosting Opensource
 
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
+* [Redirect.link](https://rdt.li/gh-awesome-url-shortener) - Free, self hostable, open source URL shortener with analytics/graphs
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [yourls](https://yourls.org)
