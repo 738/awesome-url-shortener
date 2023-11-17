@@ -21,7 +21,6 @@
 * [smallseotools](https://smallseotools.com/url-shortener)
 * [LinkSplit](https://linksplit.io/url-shortener)
 * [short.io](https://short.io)
-* [kutt.it](https://kutt.it)
 * [switchy.io](https://switchy.io)
 * [gg.gg](http://gg.gg)
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
@@ -33,6 +32,7 @@
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
+* [url1.io](https://url1.io) - Free URL shortener
 
 ## Self Hosting Opensource
 
@@ -54,6 +54,7 @@
 * [cutit.org](https://cutit.org) - website suspended
 * [soo.gd](http://soo.gd/)
 * [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)
+* [kutt.it](https://kutt.it) website down
 
 ## Contributing
 
