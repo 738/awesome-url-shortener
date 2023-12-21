@@ -33,6 +33,7 @@
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
+* [fox.ly](https://foxlyme.com/) - Optimize your URL
 
 ## Self Hosting Opensource
 
