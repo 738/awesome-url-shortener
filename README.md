@@ -17,6 +17,7 @@
 * [rebrandly.com](https://rebrandly.com)
 * [T2M](https://t2mio.com)
 * [cutt.ly](https://cutt.ly)
+* [shawt.af](https://shawt.af/)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
 * [LinkSplit](https://linksplit.io/url-shortener)
