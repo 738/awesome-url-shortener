@@ -37,6 +37,7 @@
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
+* [spoo.me](https://spoo.me/)
 
 ## Self Hosting Opensource
 
