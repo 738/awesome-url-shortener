@@ -12,6 +12,7 @@
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
+* [fox.ly](https://foxlyme.com/) - Optimize your URL
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
