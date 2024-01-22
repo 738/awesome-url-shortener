@@ -11,6 +11,7 @@
 * [buff.ly](https://buff.ly)
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
+* [Dub.co](https://dub.co)
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
@@ -40,7 +41,7 @@
 
 ## Self Hosting Opensource
 
-* [dub.sh](https://dub.sh) - A open-source link management tool for modern marketing teams to create, share, and track short links.
+* [Dub.co](https://dub.co) - Open-source link management infrastructure
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
