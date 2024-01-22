@@ -31,6 +31,7 @@
 * [short.io](https://short.io)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
+* [spoo.me](https://spoo.me/) - Shorten Your URLs, Not Your Possiblities
 * [switchy.io](https://switchy.io)
 * [T2M](https://t2mio.com)
 * [tinu.be](https://tinu.be)
@@ -39,7 +40,6 @@
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
-* [spoo.me](https://spoo.me/)
 
 ## Self Hosting Opensource
 
