@@ -3,7 +3,6 @@
 <img src="https://awesome.re/badge.svg" alt="Awesome">
 
 ## Url Shortener Services
-
 * [3.ly](https://3.ly)
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
@@ -40,6 +39,7 @@
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
+* [yaso.su](https://yaso.su/)
 
 ## Self Hosting Opensource
 
