@@ -26,6 +26,7 @@
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [Ow.ly](https://ow.ly)
 * [rebrandly.com](https://rebrandly.com)
+* [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
 * [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
 * [short.io](https://short.io)
@@ -49,6 +50,7 @@
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
+* [reduced.to](https://reduced.to) - Open-source user-friendly URL shortener with powerful analytics and management features.
 * [san.aq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
 * [shlink](https://shlink.io)
 * [yourls](https://yourls.org)
