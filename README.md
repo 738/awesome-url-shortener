@@ -41,6 +41,7 @@
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
+* [yaso.su](https://yaso.su/)
 
 ## Self Hosting Opensource
 
