@@ -30,6 +30,7 @@
 * [rip.to](https://rip.to)
 * [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
 * [short.io](https://short.io)
+* [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
 * [spoo.me](https://spoo.me/) - Shorten Your URLs, Not Your Possiblities
