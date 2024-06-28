@@ -5,7 +5,6 @@
 ## Url Shortener Services
 
 * [sor.bz](https://sor.bz) - free customizable url shortener.
-* [3.ly](https://3.ly)
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
@@ -68,6 +67,7 @@
 * [s2r.co](https://s2r.co)
 * [soo.gd](https://soo.gd/)
 * [hoy.kr](https://hoy.kr/)
+* [3.ly](https://3.ly)
 
 ## Contributing
 
