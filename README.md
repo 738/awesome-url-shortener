@@ -4,6 +4,7 @@
 
 ## Url Shortener Services
 
+* [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [3.ly](https://3.ly)
 * [bit.ly](https://bitly.com)
