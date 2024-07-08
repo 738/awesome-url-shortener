@@ -6,6 +6,7 @@
 
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [3.ly](https://3.ly)
+* [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
