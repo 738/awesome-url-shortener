@@ -56,6 +56,7 @@
 * [reduced.to](https://reduced.to) - Open-source user-friendly URL shortener with powerful analytics and management features.
 * [san.aq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
 * [shlink](https://shlink.io)
+* [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
 
 ## Deprecated Services
