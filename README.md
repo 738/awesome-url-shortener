@@ -6,7 +6,6 @@
 
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
-* [3.ly](https://3.ly)
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
@@ -18,7 +17,6 @@
 * [fox.ly](https://foxlyme.com/) - Optimize your URL
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
-* [hoy.kr](https://hoy.kr/) - Korean URL Shortener Service
 * [is.gd](https://is.gd)
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [kutt.it](https://kutt.it)
@@ -72,6 +70,8 @@
 * [me2.do](https://me2.do) - deprecated from Naver (2016-08-18)
 * [s2r.co](https://s2r.co)
 * [soo.gd](https://soo.gd/)
+* [hoy.kr](https://hoy.kr/)
+* [3.ly](https://3.ly)
 
 ## Contributing
 
