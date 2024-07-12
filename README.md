@@ -4,7 +4,9 @@
 
 ## Url Shortener Services
 
+* [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
+* [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
@@ -42,6 +44,7 @@
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
+* [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
 
 ## Self Hosting Opensource
 
@@ -54,6 +57,7 @@
 * [reduced.to](https://reduced.to) - Open-source user-friendly URL shortener with powerful analytics and management features.
 * [san.aq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
 * [shlink](https://shlink.io)
+* [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
 
 ## Deprecated Services
