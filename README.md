@@ -18,6 +18,7 @@
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [is.gd](https://is.gd)
+* [kub.sh](https://kub.sh)
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [kutt.it](https://kutt.it)
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
