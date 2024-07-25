@@ -59,6 +59,7 @@
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
+* [kes.im](https://kes.im) - No-log URL shortener works on top of Cloudflare Workers.
 
 ## Deprecated Services
 
