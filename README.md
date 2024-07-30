@@ -45,6 +45,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [kes.im](https://kes.im) - No-log URL shortener works on top of Cloudflare Workers.
 
 ## Self Hosting Opensource
 
@@ -59,6 +60,7 @@
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
+* [kes.im](https://kes.im) - No-log URL shortener works on top of Cloudflare Workers.
 
 ## Deprecated Services
 
