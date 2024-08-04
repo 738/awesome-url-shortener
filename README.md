@@ -6,6 +6,7 @@
 
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
+* [refer.is](https://refer.is/) - Link Shortener, QR Codes, and Click Analytics
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
@@ -45,6 +46,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [refer.is](https://refer.is/) - Link Shortener, QR Codes, and Click Analytics.
 
 ## Self Hosting Opensource
 
