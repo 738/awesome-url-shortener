@@ -30,6 +30,7 @@
 * [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
 * [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
+* [short.reus.nc](https://short.reus.nc) - Reus's URL shortener - hosted in France - API available.
 * [short.io](https://short.io)
 * [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
 * [shorturl.at](https://www.shorturl.at)
