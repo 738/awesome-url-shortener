@@ -4,6 +4,7 @@
 
 ## Url Shortener Services
 
+* [Pxl](https://www.pxl.to/) - Privacy-friendly (GDPR), offers URL shortening, QR codes, Microsites and retargeting pixels.
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
