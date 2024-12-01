@@ -26,6 +26,7 @@
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [Ow.ly](https://ow.ly)
+* [qryptic.io](https://qryptic.io)
 * [rebrandly.com](https://rebrandly.com)
 * [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
