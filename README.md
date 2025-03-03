@@ -30,6 +30,7 @@
 * [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
 * [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
+* [Sheets.co](https://sheets.co) - Shorten your Google Sheets URLs into clean, shareable links.
 * [short.io](https://short.io)
 * [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
 * [shorturl.at](https://www.shorturl.at)
