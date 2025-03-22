@@ -11,6 +11,7 @@
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
+* [MyURL](https://myurlsh.de) - URL Shortener made by a small team in germany.
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
