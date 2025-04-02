@@ -13,6 +13,7 @@
 * [buff.ly](https://buff.ly)
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
+* [prettyurl.net](https://prettyurl.net)
 * [Dub.co](https://dub.co)
 * [fox.ly](https://foxlyme.com/) - Optimize your URL
 * [gg.gg](https://gg.gg)
