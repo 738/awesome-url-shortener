@@ -5,7 +5,7 @@
 ## Url Shortener Services
 
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
-* [SimpleURL](https://url-shortener.me/) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
+* [URL Shortener](https://url-shortener.me/) - URL Shortener is a service that shortens long URLs, making them easy to share with friends, family, and via email, as well as ideal for social media sharing.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
