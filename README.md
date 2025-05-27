@@ -3,7 +3,7 @@
 <img src="https://awesome.re/badge.svg" alt="Awesome">
 
 ## Url Shortener Services
-
+* [Minily](https://minily.org) - Free, privacy-focused, and unlimited URL shortener with QR code generation, advanced analytics, and custom domain support.
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
