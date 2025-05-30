@@ -20,6 +20,7 @@
 * [is.gd](https://is.gd)
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [kutt.it](https://kutt.it)
+* [Lin-k.ai](https://lin-k.ai/) - Free URL Shortener, QR Codes, Bio Pages and much more
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [LinkSplit](https://linksplit.io/url-shortener)
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
