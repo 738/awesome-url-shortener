@@ -4,8 +4,9 @@
 
 ## Url Shortener Services
 
-* [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
+* [link-rotator.com](https://link-rotator.com) - URL shortener with smart rotation between multiple destinations
 * [sor.bz](https://sor.bz) - free customizable url shortener.
+* [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
