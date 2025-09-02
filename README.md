@@ -4,6 +4,9 @@
 
 ## Url Shortener Services
 
+* [Doodsty](https://doodsty.fun) - URL shortener with bulk link creation, analytics dashboard, and a fair 3:1 rotation system.
+* [Videyx](https://videyx.fun) - Fast alternative shortener domain offering quick redirects, link stats, and rotation-based monetization.
+
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
