@@ -45,6 +45,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [Zu.lk](https://zu.lk) - Zulk is a premium, AI-first URL shortener featuring an MCP for seamless integration with AI tools ✨
 
 ## Self Hosting Opensource
 
