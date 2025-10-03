@@ -25,6 +25,7 @@
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
+* [Ogli](https://ogli.sh) - Super simple link shortener API with customizable OG/meta for rich social previews.
 * [Ow.ly](https://ow.ly)
 * [rebrandly.com](https://rebrandly.com)
 * [reduced.to](https://reduced.to)
