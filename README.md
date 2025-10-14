@@ -31,6 +31,7 @@
 * [rip.to](https://rip.to)
 * [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
 * [short.io](https://short.io)
+* [shortn.top](https://shortn.top) - Free generated/custom URL shortener, accessible via both website and API
 * [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
