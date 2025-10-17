@@ -45,6 +45,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [kua.lat](https://kua.lat) - Keep URLs Accurate, Lightweight, and Trustworthy
 
 ## Self Hosting Opensource
 
