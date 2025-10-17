@@ -5,6 +5,8 @@
 ## Url Shortener Services
 
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
+* [URLShortener](https://url-shortener.co.in) - A Free Forever plateform for custom URL Shortner that comes with adavance analytics, link in bio and qr code all free.
+* [TS4,in](https://ts4.in) - Most trusted completely FREE URL shortener plateform. Perfect for businesses, influences, and digital marketers. No hidden fees, no trials - Free Forever!
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
