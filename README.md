@@ -45,6 +45,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [Morphurl.com](https://morphurl.com/) - Transform long links into powerful short URLs with QR codes and analytics. Free URL shortener with custom domains, UTM tracking, and enterprise features. Start shortening URLs instantly.
 
 ## Self Hosting Opensource
 
