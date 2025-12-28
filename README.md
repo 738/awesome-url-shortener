@@ -59,6 +59,7 @@
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
+* [CutItOff](https://github.com/dayeggpi/CutItOff) - ✂️ a lightweight, single-file URL shortener with API support, admin panel, and metadata management.
 
 ## Deprecated Services
 
