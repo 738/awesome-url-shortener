@@ -45,6 +45,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [jo4.io](https://jo4.io/) - API first, white label support, awesome analytics, ownership transfer, tons of features
 
 ## Self Hosting Opensource
 
