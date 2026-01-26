@@ -45,6 +45,7 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
+* [replug.io](https://replug.io/) - Enterprise-grade link shortener with advanced analytics, branded links, bio pages, and powerful marketing tools
 
 ## Self Hosting Opensource
 
