@@ -59,6 +59,7 @@
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
+* [Rushomon](https://rushomon.cc) - A self-hostable URL shortener built for Cloudflare Workers with Rust (WebAssembly), designed for personal/family use with multi-tenant capability.
 
 ## Deprecated Services
 
