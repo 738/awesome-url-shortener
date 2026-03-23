@@ -34,6 +34,7 @@
 * [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
 * [shorturl.at](https://www.shorturl.at)
 * [smallseotools](https://smallseotools.com/url-shortener)
+* [SnapAPI](https://api-snap.com) - REST API with URL shortening plus 12 other utility endpoints (QR codes, screenshots, PDFs, and more) under one API key.
 * [spoo.me](https://spoo.me/) - Shorten Your URLs, Not Your Possiblities
 * [switchy.io](https://switchy.io)
 * [T2M](https://t2mio.com)
