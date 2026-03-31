@@ -21,6 +21,7 @@
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [kutt.it](https://kutt.it)
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
+* [LinkShrink](https://linkshrink.dev) - Free privacy-first URL shortener API with analytics and UTM tracking. No API key required.
 * [LinkSplit](https://linksplit.io/url-shortener)
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
