@@ -48,6 +48,7 @@
 
 ## Self Hosting Opensource
 
+* [Brevio](https://github.com/numanrki/Brevio) - A modern, self-hosted URL shortener and link management platform with analytics, QR codes, bio pages, and smart deep links.
 * [Dub.co](https://dub.co) - Open-source link management infrastructure
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
