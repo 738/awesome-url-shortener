@@ -53,6 +53,8 @@
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
+* [PeakURL](https://peakurl.org/) - PeakURL gives you complete ownership over your links. Custom aliases, QR codes, analytics, API keys, the official CLI, location data, and dashboard updates — all included.
+
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
 * [reduced.to](https://reduced.to) - Open-source user-friendly URL shortener with powerful analytics and management features.
 * [san.aq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
