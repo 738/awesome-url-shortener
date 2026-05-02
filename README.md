@@ -11,6 +11,7 @@
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
+* [Capsulink](https://www.capsulink.com) - Smart multi-destination link redirect tool and QR code generator
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
