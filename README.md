@@ -4,13 +4,13 @@
 
 ## Url Shortener Services
 
+* [Linkly](https://linklyhq.com) - URL shortener with georedirects, QR codes, app redirects, domains and live data feeds for Google Sheets.
 * [SimpleURL](https://simpleURL.tech) - Free custom/private URL Shortner that also allows to Search Bookmarked URLs & Short URLs.
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
 * [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
-* [buff.ly](https://buff.ly)
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
@@ -25,11 +25,7 @@
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
-* [Ow.ly](https://ow.ly)
 * [rebrandly.com](https://rebrandly.com)
-* [reduced.to](https://reduced.to)
-* [rip.to](https://rip.to)
-* [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
 * [short.io](https://short.io)
 * [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
 * [shorturl.at](https://www.shorturl.at)
@@ -44,7 +40,6 @@
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
-* [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
 
 ## Self Hosting Opensource
 
@@ -52,9 +47,8 @@
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
-* [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
-* [reduced.to](https://reduced.to) - Open-source user-friendly URL shortener with powerful analytics and management features.
+* [reduced.to](https://github.com/origranot/reduced.to) - Open-source URL shortener with analytics (self-host via GitHub; managed instance no longer available)
 * [san.aq](https://github.com/neutronscott/sanaq) - Open-source URL shortener with an HTTP API to shorten long url with curl.
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -62,16 +56,23 @@
 
 ## Deprecated Services
 
+* [buff.ly](https://buff.ly) - Buffer's URL shortener discontinued; existing short links still redirect but new shortening is no longer available
 * [cutit.org](https://cutit.org) - website suspended
 * [git.io](https://git.io) - deprecated from GitHub (2022-01-11)
 * [goo.gl](https://goo.gl) - deprecated from Google (2018-03-30)
+* [hoy.kr](https://hoy.kr/)
 * [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)
 * [LiveChat URL shortener](https://www.livechatinc.com/url-shortener/) - temporarily unavailable
 * [me2.do](https://me2.do) - deprecated from Naver (2016-08-18)
+* [Ow.ly](https://ow.ly) - Hootsuite's URL shortener discontinued; short links redirect to an error page
+* [Polr](https://polrproject.org) - open-source self-hosted shortener; [GitHub repository archived](https://github.com/cydrobolt/polr), no longer maintained
+* [reduced.to](https://reduced.to) - managed instance offline (DNS not resolving); project continues as [open source](https://github.com/origranot/reduced.to)
+* [rip.to](https://rip.to) - service unreachable (SSL/server failure)
 * [s2r.co](https://s2r.co)
+* [san.aq](https://san.aq) - managed instance offline (SSL certificate expired); source code available on [GitHub](https://github.com/neutronscott/sanaq)
 * [soo.gd](https://soo.gd/)
-* [hoy.kr](https://hoy.kr/)
 * [3.ly](https://3.ly)
+* [zlnk.com](https://zlnk.com/) - domain parked for sale
 
 ## Contributing
 
