@@ -12,7 +12,7 @@
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
 * [clicky.me](https://clicky.me)
-* [cutt.ly](https://cutt.ly)
+* [cutt.ly](https://cutt.ly) - mostly commercial, free version limit is 30 links/month
 * [Dub.co](https://dub.co)
 * [fox.ly](https://foxlyme.com/) - Optimize your URL
 * [gg.gg](https://gg.gg)
