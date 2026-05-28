@@ -28,7 +28,6 @@
 * [Ow.ly](https://ow.ly)
 * [rebrandly.com](https://rebrandly.com)
 * [reduced.to](https://reduced.to)
-* [rip.to](https://rip.to)
 * [san.aq](https://san.aq) - scott's url shortener (usable with `curl`)
 * [short.io](https://short.io)
 * [shorten-url.com](https://shorten-url.com) - Feature rich multi language service with affordable premium plan (lyn.bz domain)
@@ -62,6 +61,7 @@
 
 ## Deprecated Services
 
+* [rip.to](https://rip.to) - website https SSL certificate error 2026-05-28
 * [cutit.org](https://cutit.org) - website suspended
 * [git.io](https://git.io) - deprecated from GitHub (2022-01-11)
 * [goo.gl](https://goo.gl) - deprecated from Google (2018-03-30)
