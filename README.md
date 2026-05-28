@@ -39,7 +39,7 @@
 * [T2M](https://t2mio.com)
 * [tinu.be](https://tinu.be)
 * [Tiny URL](https://tiny.cc)
-* [T.LY](https://t.ly)
+* [T.LY](https://t.ly) - mainly commercial, free version limit is 10 links/month
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
