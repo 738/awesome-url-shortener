@@ -8,7 +8,6 @@
 * [sor.bz](https://sor.bz) - free customizable url shortener.
 * [73.nu](https://shorturl.73.nu) - Also offers LinkHub and Pastebin
 * [bit.ly](https://bitly.com)
-* [bitly.kr](https://bitly.kr) - Korean URL Shortener Service
 * [bl.ink](https://www.bl.ink)
 * [buff.ly](https://buff.ly)
 * [clicky.me](https://clicky.me)
@@ -62,6 +61,7 @@
 
 ## Deprecated Services
 
+* [bitly.kr](https://bitly.kr) - website url service N/A 2026-05-28
 * [cutit.org](https://cutit.org) - website suspended
 * [git.io](https://git.io) - deprecated from GitHub (2022-01-11)
 * [goo.gl](https://goo.gl) - deprecated from Google (2018-03-30)
