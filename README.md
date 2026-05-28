@@ -25,7 +25,6 @@
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
-* [Ow.ly](https://ow.ly)
 * [rebrandly.com](https://rebrandly.com)
 * [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
@@ -62,6 +61,7 @@
 
 ## Deprecated Services
 
+* [Ow.ly](https://ow.ly) - website deprecated 2026-05-28
 * [cutit.org](https://cutit.org) - website suspended
 * [git.io](https://git.io) - deprecated from GitHub (2022-01-11)
 * [goo.gl](https://goo.gl) - deprecated from Google (2018-03-30)
