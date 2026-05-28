@@ -38,7 +38,7 @@
 * [switchy.io](https://switchy.io)
 * [T2M](https://t2mio.com)
 * [tinu.be](https://tinu.be)
-* [Tiny URL](https://tiny.cc)
+* [Tiny URL](https://tiny.cc) - free unregistered limit: anonymous links expire
 * [T.LY](https://t.ly)
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
