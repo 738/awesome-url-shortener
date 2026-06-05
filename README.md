@@ -41,7 +41,7 @@
 * [Tiny URL](https://tiny.cc)
 * [T.LY](https://t.ly)
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
-* [URLyte](https://urlyte.com) - Branded URL shortener with namespace organisation, click analytics, QR codes, and malicious URL detection — no custom domain required.
+* [URLyte](https://urlyte.com) - Branded short links with analytics and QR codes — no custom domain needed.
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
