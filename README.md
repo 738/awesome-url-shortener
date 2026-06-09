@@ -18,6 +18,7 @@
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [is.gd](https://is.gd)
+* [Jmpy.me](https://jmpy.me) - Free branded short links, dynamic QR codes, and click analytics.
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [kutt.it](https://kutt.it)
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
@@ -50,6 +51,7 @@
 
 * [Dub.co](https://dub.co) - Open-source link management infrastructure
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
+* * [Jmpy.me](https://github.com/iamCodingwithAI/jmpy.me) - Free branded short links, dynamic QR codes, and click analytics.
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
 * [lstu.fr](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Another open source link shortener that provides an official instance at the same time
 * [Polr](https://polrproject.org) - a quick, modern, and open-source link shortener. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data.
