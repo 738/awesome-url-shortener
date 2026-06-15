@@ -23,6 +23,7 @@
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link
 * [LinkSplit](https://linksplit.io/url-shortener)
 * [lstu.fr](https://lstu.fr/) - Let's shorten that url
+* [mnlc.es](https://mnlc.es) — Spanish ultra-short URL shortener with a built-in link-in-bio profile, free plan available
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [Ow.ly](https://ow.ly)
