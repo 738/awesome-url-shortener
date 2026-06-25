@@ -45,7 +45,8 @@
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
-
+* [Premium URL Shortener](https://gempixel.com/products/premium-url-shortener) - Self-hosted premium link shortener with link-in-bio and qr codes
+  
 ## Self Hosting Opensource
 
 * [Dub.co](https://dub.co) - Open-source link management infrastructure
