@@ -14,6 +14,7 @@
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
+* [Flyn](https://www.flyn.to) - Free URL shortener with branded domains, click analytics, QR codes, and deep links.
 * [fox.ly](https://foxlyme.com/) - Optimize your URL
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
