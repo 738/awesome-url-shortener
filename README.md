@@ -59,6 +59,7 @@
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
+* [Relinky](https://github.com/artyomxx/relinky) — lightweight, self-hosted, desktop & mobile admin UI, stats, SQLite storage and API for automation. Three hosting modes: 1) admin and redirector service split (native/dev); 2) built-in Caddy gateway with auto Let's Encrypt certs; 3) Coolify.
 
 ## Deprecated Services
 
