@@ -72,6 +72,7 @@
 * [soo.gd](https://soo.gd/)
 * [hoy.kr](https://hoy.kr/)
 * [3.ly](https://3.ly)
+* [Tab Share Shortener](https://github.com/kaikayy/tab-share-shortener) - Zero-dependency URL shortener (Node stdlib or Cloudflare Worker); one-command install, admin panel, per-link expiry, no tracking.
 
 ## Contributing
 
