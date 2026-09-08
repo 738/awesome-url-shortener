@@ -59,6 +59,7 @@
 * [shlink](https://shlink.io)
 * [Sink](https://github.com/ccbikai/sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * [yourls](https://yourls.org)
+* [Tab Share Shortener](https://github.com/kaikayy/tab-share-shortener) - Zero-dependency URL shortener (Node stdlib or Cloudflare Worker); one-command install, admin panel, per-link expiry, no tracking.
 
 ## Deprecated Services
 
