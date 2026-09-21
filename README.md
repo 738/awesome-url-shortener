@@ -13,7 +13,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
 | [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
-| [Self-hosted open source](#self-hosted-open-source-software) | 18 | Source code and tools for running your own shortener. |
+| [Self-hosted open source](#self-hosted-open-source-software) | 19 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
 
@@ -95,7 +95,7 @@ Run the shortener on infrastructure you manage. Follow each project's installati
 * [Brevio](https://github.com/numanrki/Brevio) - Self-hosted URL shortener with analytics, QR codes, bio pages, and deep links.
 * [Dub.co](https://dub.co) - Open-source link management infrastructure.
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A URL shortener built on Cloudflare Workers.
-* [Jinx.fyi](https://jinx.fyi) - a link shortener you host free on GitHub Pages.
+* [Jinx.fyi](https://github.com/gdmcdonald/jinx) - Static URL shortener for GitHub Pages with a searchable link directory and QR codes.
 * [kes.im](https://github.com/ramesaliyev/kes.im) - URL shortener built on Cloudflare Workers.
 * [Kutt](https://github.com/thedevs-network/kutt) - Self-hosted URL shortener with custom domains, link statistics, and an API.
 * [lstu](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Self-hosted URL shortener written in Perl.
