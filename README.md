@@ -95,6 +95,7 @@ Run the shortener on infrastructure you manage. Follow each project's installati
 * [Brevio](https://github.com/numanrki/Brevio) - Self-hosted URL shortener with analytics, QR codes, bio pages, and deep links.
 * [Dub.co](https://dub.co) - Open-source link management infrastructure.
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A URL shortener built on Cloudflare Workers.
+* [Jinx.fyi](https://jinx.fyi) - a link shortener you host free on GitHub Pages.
 * [kes.im](https://github.com/ramesaliyev/kes.im) - URL shortener built on Cloudflare Workers.
 * [Kutt](https://github.com/thedevs-network/kutt) - Self-hosted URL shortener with custom domains, link statistics, and an API.
 * [lstu](https://framagit.org/fiat-tux/hat-softwares/lstu/) - Self-hosted URL shortener written in Perl.
