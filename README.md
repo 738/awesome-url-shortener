@@ -13,7 +13,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
 | [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
-| [Self-hosted open source](#self-hosted-open-source-software) | 19 | Source code and tools for running your own shortener. |
+| [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
 
@@ -106,6 +106,7 @@ Run the shortener on infrastructure you manage. Follow each project's installati
 * [Rushomon](https://github.com/piffio/rushomon) - Self-hosted URL shortener built with Rust and WebAssembly for Cloudflare Workers.
 * [san.aq](https://github.com/neutronscott/sanaq) - URL shortener with an HTTP API usable with curl.
 * [shlink](https://shlink.io) - Self-hosted URL shortener with visitor statistics.
+* [shrtnr](https://github.com/oddbit/shrtnr) - Self-hosted URL shortener on Cloudflare Workers and D1 with click analytics, an admin dashboard, and a built-in MCP server.
 * [Sink](https://github.com/miantiao-me/Sink) - URL shortener with analytics running on Cloudflare.
 * [Slug](https://github.com/pheralb/slug) - Self-hosted URL shortener built with the T3 Stack.
 * [Tab Share Shortener](https://github.com/kaikayy/tab-share-shortener) - Self-hosted Node.js or Cloudflare Worker shortener with a destination allowlist, link expiration, and optional aggregate analytics.
