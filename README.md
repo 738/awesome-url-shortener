@@ -1,10 +1,34 @@
 # Awesome URL Shortener
 
-<img src="https://awesome.re/badge.svg" alt="Awesome">
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A curated list of hosted URL shorteners and software you can run yourself. Features and plan limits can change; check the linked provider before signing up.
+A curated directory of URL shorteners, branded-link tools, and software you can host yourself.
+
+Use a hosted service to get started, run your own shortener to manage the redirects yourself, or look up a service that has moved or closed.
+
+**Directory review:** [September 21, 2026](BACKLOG_REVIEW.md). The review covers public pages, documentation, and access checks; it is not an end-to-end test of every service.
+
+## Find What You Need
+
+| Browse | Entries | What you will find |
+| --- | ---: | --- |
+| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Self-hosted open source](#self-hosted-open-source-software) | 18 | Source code and tools for running your own shortener. |
+| [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
+| [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
+
+Entries are alphabetical within each category. Some projects appear in both hosted and self-hosted sections.
+
+## Before You Choose
+
+* **Your domain:** Check custom-domain support and whether you can export your links if you move to another provider.
+* **Link lifetime:** Check expiration rules and what happens when a free trial or subscription ends.
+* **Plan limits:** Compare link creation limits, analytics retention, and API access. Features and pricing can change.
+* **Hosting:** For self-hosted software, check the license, deployment instructions, and recent maintenance before installing.
 
 ## URL Shortener Services
+
+Hosted tools for shortening, branding, and tracking links. Some require an account or a subscription; buff.ly and Ow.ly are features of Buffer and Hootsuite.
 
 * [3.ly](https://www.3.ly/) - URL shortener with custom aliases, QR codes, and click statistics.
 * [bit.ly](https://bitly.com) - URL shortener with a free plan limited to 5 links per month ([pricing](https://bitly.com/pages/pricing), checked 2026-09-21).
@@ -66,6 +90,8 @@ A curated list of hosted URL shorteners and software you can run yourself. Featu
 
 ## Self-Hosted Open-Source Software
 
+Run the shortener on infrastructure you manage. Follow each project's installation guide for its requirements and deployment options.
+
 * [Brevio](https://github.com/numanrki/Brevio) - Self-hosted URL shortener with analytics, QR codes, bio pages, and deep links.
 * [Dub.co](https://dub.co) - Open-source link management infrastructure.
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A URL shortener built on Cloudflare Workers.
@@ -87,17 +113,33 @@ A curated list of hosted URL shorteners and software you can run yourself. Featu
 
 ## Commercial Self-Hosted Software
 
+Paid software for installation on your own server.
+
 * [Premium URL Shortener](https://gempixel.com/products/premium-url-shortener) - Commercial self-hosted software with link-in-bio pages and QR codes.
 
-## Archived Open-Source Projects
+## Service History and Access Problems
 
-These repositories are archived and are listed for reference.
+Looking for an old service? These records explain where it went and distinguish confirmed changes from access failures.
+
+### Archived Open-Source Projects
+
+Archived repositories, kept here for reference.
+
+<details>
+<summary>View 3 archived projects</summary>
 
 * [Pckd](https://github.com/Just-Moh-it/Pckd) - Self-hosted URL shortener; repository archived.
 * [reduced.to](https://github.com/origranot/reduced.to) - Self-hosted URL shortener with analytics; repository archived on 2025-04-27.
 * [URLed](https://github.com/masoncfrancis/urled) - Lightweight self-hosted URL shortener written in Go; repository archived.
 
-## Deprecated or Restricted Services
+</details>
+
+### Deprecated or Restricted Services
+
+Services previously listed as deprecated, plus confirmed shutdowns, domain changes, and restrictions on public access.
+
+<details>
+<summary>View 14 deprecated or restricted services</summary>
 
 * [73.nu](https://73.nu/shutdown-notice) - Public service shut down; see the operator announcement.
 * [clicky.me](https://clicky.me) - In maintenance mode; the site states that it can no longer be actively used.
@@ -114,9 +156,14 @@ These repositories are archived and are listed for reference.
 * [soo.gd](https://soo.gd/) - Previously listed as deprecated.
 * [zlnk.com](https://www.afternic.com/domain/zlnk.com) - Former shortener domain listed for sale.
 
-## Services with Access Problems
+</details>
+
+### Services with Access Problems
 
 Observed on 2026-09-21. These access failures do not establish permanent shutdown.
+
+<details>
+<summary>View 5 services with access problems</summary>
 
 * [bitly.kr](https://bitly.kr) - Homepage returned HTTP 403 during this review; shutdown not confirmed.
 * [fox.ly](https://foxlyme.com/) - Listed homepage returned a Wix domain-connection error and HTTP 404 during this review; shutdown not confirmed.
@@ -124,6 +171,19 @@ Observed on 2026-09-21. These access failures do not establish permanent shutdow
 * [rip.to](https://rip.to) - HTTPS connection failed during this review; shutdown not confirmed.
 * [san.aq](https://san.aq) - HTTPS certificate expired during this review; self-hosted source remains available.
 
+</details>
+
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md), fork, and open a pull request!
+* **Add a shortener:** Read the [contribution guidelines](CONTRIBUTING.md), check for an existing entry or suggestion, and submit one service per pull request.
+* **Update an entry:** [Open an issue](https://github.com/738/awesome-url-shortener/issues/new) or a pull request with the corrected link or description. Include an official source or the date and details of an access problem.
+
+Keep descriptions brief and factual, and update the category counts when adding or moving an entry. Use the same format as the list:
+
+```markdown
+* [Service name](https://example.com) - A short description ending with a period.
+```
+
+## License
+
+[MIT](LICENSE).
