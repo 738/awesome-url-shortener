@@ -48,6 +48,7 @@
 
 ## Self Hosting Opensource
 
+* [Jinx.fyi](https://jinx.fyi) - a link shortener you host free on GitHub Pages.
 * [Dub.co](https://dub.co) - Open-source link management infrastructure
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
 * [kutt.it](https://kutt.it) - Looks to both be a managed service, and self-hosted option, due to being [open source on GitHub](https://github.com/thedevs-network/kutt)
