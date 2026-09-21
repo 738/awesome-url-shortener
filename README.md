@@ -14,6 +14,7 @@
 * [clicky.me](https://clicky.me)
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
+* [FavURL](https://fav-url.com/) - Creator-focused URL shortener with analytics, QR codes, collections, and custom domains.
 * [fox.ly](https://foxlyme.com/) - Optimize your URL
 * [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
