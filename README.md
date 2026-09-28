@@ -12,7 +12,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
-| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Hosted services](#url-shortener-services) | 58 | Services for creating and managing short links without running a server. |
 | [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
@@ -42,6 +42,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [han.gl](https://han.gl) - Korean URL shortening service.
 * [is.gd](https://is.gd) - URL shortening service with custom aliases.
 * [kes.im](https://kes.im) - Ad-free URL shortener built on Cloudflare Workers.
+* [ktzr.io](https://ktzr.io/en/) - Ad-free URL shortener with a Hebrew and English interface, a QR code for every link, and an API; the free plan allows 100 active links ([pricing](https://ktzr.io/en/pricing/), checked 2026-09-29).
 * [kua.lat](https://kua.lat) - URL shortener with branded links, analytics, QR codes, and bio pages.
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
 * [Kutt](https://kutt.to) - URL shortener with custom domains and link statistics.
