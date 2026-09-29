@@ -70,6 +70,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [shorturl.at](https://www.shorturl.at) - URL shortening service.
 * [SimpleURL](https://www.simpleurl.tech/) - URL shortener with branded links, QR codes, and analytics.
 * [smallseotools](https://smallseotools.com/url-shortener) - Online URL shortening tool.
+* [Snipzr](https://www.snipzr.com) - URL shortener with links that never expire, a custom domain on every plan and bot-filtered analytics.
 * [sor.bz](https://sor.bz) - Customizable URL shortener powered by PyMD.
 * [spoo.me](https://spoo.me/) - URL shortener with custom links and click analytics.
 * [switchy.io](https://switchy.io) - URL shortener with link tracking and retargeting.
