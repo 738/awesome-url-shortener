@@ -12,7 +12,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
-| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Hosted services](#url-shortener-services) | 58 | Services for creating and managing short links without running a server. |
 | [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
@@ -77,6 +77,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [T2M](https://t2mio.com) - Link management service with branded URLs and QR codes.
 * [tinu.be](https://tinu.be) - URL shortener and QR code generator.
 * [Tiny URL](https://tiny.cc) - URL shortener; anonymous links can expire, while registering an account prevents expiration.
+* [tinyous](https://tinyous.com) - URL shortener with QR codes, UTM campaign tags, and click history. Free plan includes 12 links.
 * [url1.io](https://url1.io) - URL shortener with custom links, QR codes, and analytics.
 * [urlr.me](https://urlr.me/en) - URL shortener with API access.
 * [URLyte](https://urlyte.com) - URL shortener with branded namespaces, click analytics, and QR codes.
