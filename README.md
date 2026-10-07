@@ -13,7 +13,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
 | [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
-| [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
+| [Self-hosted open source](#self-hosted-open-source-software) | 21 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
 
@@ -103,6 +103,7 @@ Run the shortener on infrastructure you manage. Follow each project's installati
 * [PeakURL](https://peakurl.org) - Self-hosted URL shortener with custom aliases, QR codes, analytics, and an API.
 * [Polr](https://polrproject.org) - Self-hosted URL shortener with custom branding and an API.
 * [pygmy](https://github.com/amitt001/pygmy) - Extensible URL shortener with analytics written in Python.
+* [QRDock](https://github.com/seyitwb-svg/qrdock) - Self-hosted shortener where links double as retargetable QR codes with scan analytics.
 * [Rushomon](https://github.com/piffio/rushomon) - Self-hosted URL shortener built with Rust and WebAssembly for Cloudflare Workers.
 * [san.aq](https://github.com/neutronscott/sanaq) - URL shortener with an HTTP API usable with curl.
 * [shlink](https://shlink.io) - Self-hosted URL shortener with visitor statistics.
