@@ -31,6 +31,7 @@ Entries are alphabetical within each category. Some projects appear in both host
 Hosted tools for shortening, branding, and tracking links. Some require an account or a subscription; buff.ly and Ow.ly are features of Buffer and Hootsuite.
 
 * [3.ly](https://www.3.ly/) - URL shortener with custom aliases, QR codes, and click statistics.
+* [b59.link](https://b59.link) - URL shortener with trackable QR codes, click statistics, and a page-view tracker; no sign-up needed, with a REST API and an MCP server.
 * [bit.ly](https://bitly.com) - URL shortener with a free plan limited to 5 links per month ([pricing](https://bitly.com/pages/pricing), checked 2026-09-21).
 * [bl.ink](https://www.bl.ink) - Branded link management service.
 * [buff.ly](https://buffer.com) - Link shortening available within Buffer ([usage guide](https://support.buffer.com/en-us/articles/shortening-and-unshortening-links-dgev2p41yY)).
