@@ -12,7 +12,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
-| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Hosted services](#url-shortener-services) | 58 | Services for creating and managing short links without running a server. |
 | [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
@@ -59,6 +59,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [prettyurl.net](https://prettyurl.net) - URL shortener with custom domains.
 * [Pxl](https://www.pxl.to/) - URL shortener with QR codes, microsites, and retargeting pixels.
 * [PyMD](https://py.md) - Community-maintained URL shortener for Python links.
+* [Qlynk](https://qlynk.eu/en/) - URL shortener made and hosted in France (English, French and Spanish), with QR codes, bot-filtered click analytics, and links that open the matching mobile app.
 * [qryptic.io](https://qryptic.io) - Link management service with URL shortening and QR codes.
 * [rebrandly.com](https://rebrandly.com) - Branded URL shortening service.
 * [RedirHub](https://www.redirhub.com) - URL shortening and redirect service with custom domains, HTTPS, analytics, and an API.
