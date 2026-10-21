@@ -13,7 +13,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
 | [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
-| [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
+| [Self-hosted open source](#self-hosted-open-source-software) | 21 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
 
@@ -93,6 +93,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 Run the shortener on infrastructure you manage. Follow each project's installation guide for its requirements and deployment options.
 
 * [Brevio](https://github.com/numanrki/Brevio) - Self-hosted URL shortener with analytics, QR codes, bio pages, and deep links.
+* [Chhoto URL](https://chhoto.link) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 * [Dub.co](https://dub.co) - Open-source link management infrastructure.
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A URL shortener built on Cloudflare Workers.
 * [Jinx.fyi](https://github.com/gdmcdonald/jinx) - Static URL shortener for GitHub Pages with a searchable link directory and QR codes.
