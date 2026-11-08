@@ -80,6 +80,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [url1.io](https://url1.io) - URL shortener with custom links, QR codes, and analytics.
 * [urlr.me](https://urlr.me/en) - URL shortener with API access.
 * [URLyte](https://urlyte.com) - URL shortener with branded namespaces, click analytics, and QR codes.
+* [useClick](https://useclick.io) - URL shortener with branded domains, QR codes, link-in-bio pages, cookie-free website analytics, and an MCP server.
 * [v.gd](https://v.gd) - URL shortener from the same provider as is.gd.
 * [vo.la](https://vo.la/) - Korean URL shortening service.
 * [x.gd](https://x.gd) - Japanese URL shortening service with custom aliases and optional expiration.
