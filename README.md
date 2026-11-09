@@ -12,7 +12,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
-| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Hosted services](#url-shortener-services) | 58 | Services for creating and managing short links without running a server. |
 | [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
@@ -40,6 +40,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [FavURL](https://fav-url.com/) - URL shortener with analytics, QR codes, link collections, and custom domains.
 * [Flyn](https://www.flyn.to) - URL shortener with branded domains, click analytics, QR codes, and deep links; free and paid plans.
 * [han.gl](https://han.gl) - Korean URL shortening service.
+* [hrva.cc](https://hrva.cc) - Open-source URL shortener with custom aliases, custom domains, QR codes, an API, and click analytics that don't store IP addresses.
 * [is.gd](https://is.gd) - URL shortening service with custom aliases.
 * [kes.im](https://kes.im) - Ad-free URL shortener built on Cloudflare Workers.
 * [kua.lat](https://kua.lat) - URL shortener with branded links, analytics, QR codes, and bio pages.
