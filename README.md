@@ -12,7 +12,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
-| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Hosted services](#url-shortener-services) | 58 | Services for creating and managing short links without running a server. |
 | [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
@@ -47,6 +47,7 @@ Hosted tools for shortening, branding, and tracking links. Some require an accou
 * [Kutt](https://kutt.to) - URL shortener with custom domains and link statistics.
 * [LikeDo (formerly wr.do)](https://like.do) - URL shortener with custom aliases, password protection, and analytics.
 * [link2.it](https://link2.it) - URL shortener with custom aliases, passwords, and link expiration.
+* [linked.is](https://linked.is) - URL shortener with link-in-bio pages, QR codes, analytics, and custom domains; the free plan includes unlimited links.
 * [LinkHuddle](https://linkhuddle.com/) - Huddle multiple links in one link.
 * [Linkly](https://linklyhq.com) - URL shortener with custom domains, QR codes, and location-based redirects.
 * [LinkSplit](https://linksplit.io/url-shortener) - URL shortening and traffic splitting service.
