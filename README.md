@@ -12,7 +12,7 @@ Use a hosted service to get started, run your own shortener to manage the redire
 
 | Browse | Entries | What you will find |
 | --- | ---: | --- |
-| [Hosted services](#url-shortener-services) | 57 | Services for creating and managing short links without running a server. |
+| [Hosted services](#url-shortener-services) | 58 | Services for creating and managing short links without running a server. |
 | [Self-hosted open source](#self-hosted-open-source-software) | 20 | Source code and tools for running your own shortener. |
 | [Commercial self-hosted software](#commercial-self-hosted-software) | 1 | Paid software you install on your own infrastructure. |
 | [Service history and access problems](#service-history-and-access-problems) | 22 | Archived projects, closed or restricted services, and dated access failures. |
@@ -31,6 +31,7 @@ Entries are alphabetical within each category. Some projects appear in both host
 Hosted tools for shortening, branding, and tracking links. Some require an account or a subscription; buff.ly and Ow.ly are features of Buffer and Hootsuite.
 
 * [3.ly](https://www.3.ly/) - URL shortener with custom aliases, QR codes, and click statistics.
+* [amz.do](https://amz.do/) - Amazon listing URL shortener with campaign tags and click analytics.
 * [bit.ly](https://bitly.com) - URL shortener with a free plan limited to 5 links per month ([pricing](https://bitly.com/pages/pricing), checked 2026-09-21).
 * [bl.ink](https://www.bl.ink) - Branded link management service.
 * [buff.ly](https://buffer.com) - Link shortening available within Buffer ([usage guide](https://support.buffer.com/en-us/articles/shortening-and-unshortening-links-dgev2p41yY)).
